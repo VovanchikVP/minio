@@ -1,0 +1,43 @@
+# DotEnv configuration
+.env
+.DS_Store
+
+# Pycharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Snakemake
+.snakemake/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Temp files
+*.txt
+*.zip
+*.rar
+*.tar
+*.csv
+*.xls
+*.xlsx
+*.html
+*.svg
+*.png
+*.esp
+
+# Jupyter notebooks
+notebooks/
+
+# Pip env
+venv/
+
+# Setup
+dist/
+
+# Code artefacts
+/output*/
+
+# Symbolic Links
+/proba_ds_at
